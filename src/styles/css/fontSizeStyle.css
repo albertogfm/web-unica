@@ -1,0 +1,16 @@
+body{
+    font-size: 6px;
+}
+.container1{
+    font-size: 60px;
+}
+.container2{
+    font-size: 40px;
+}
+p{
+    font-size: 0.5em;
+}
+
+.container2 p{
+    font-size: 2rem;
+}
